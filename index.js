@@ -2,6 +2,11 @@
 // function suma(x, y){
 //     return x + y;
 //     };
+
+function suma(x, y, z){
+    return x + y + z;
+    };
+
     
     function resta(x, y){
         return x - y;
